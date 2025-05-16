@@ -1,0 +1,14 @@
+C:\Github\Mergesort\bin\Debug\net8.0\Mergesort.exe
+C:\Github\Mergesort\bin\Debug\net8.0\Mergesort.deps.json
+C:\Github\Mergesort\bin\Debug\net8.0\Mergesort.runtimeconfig.json
+C:\Github\Mergesort\bin\Debug\net8.0\Mergesort.dll
+C:\Github\Mergesort\bin\Debug\net8.0\Mergesort.pdb
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.AssemblyInfoInputs.cache
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.AssemblyInfo.cs
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.csproj.CoreCompileInputs.cache
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.dll
+C:\Github\Mergesort\obj\Debug\net8.0\refint\Mergesort.dll
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.pdb
+C:\Github\Mergesort\obj\Debug\net8.0\Mergesort.genruntimeconfig.cache
+C:\Github\Mergesort\obj\Debug\net8.0\ref\Mergesort.dll
