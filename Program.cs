@@ -46,6 +46,7 @@ static void Merge(int[] arr, int left, int mid, int right)
     {
         L[i] = arr[left + i];
     }
+
     for (j = 0; j < n2; ++j)
     {
         R[j] = arr[mid + 1 + j];
@@ -62,6 +63,7 @@ static void Merge(int[] arr, int left, int mid, int right)
             arr[k] = L[i];
             i++;
         }
+
         else
         {
             arr[k] = R[j];
