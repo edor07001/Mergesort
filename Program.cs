@@ -69,6 +69,7 @@ static void Merge(int[] arr, int left, int mid, int right)
             arr[k] = R[j];
             j++;
         }
+        
         k++;
     }
 
